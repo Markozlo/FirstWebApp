@@ -15,7 +15,7 @@ namespace FirstWebApp.Data
         
         }
     
-        public virtual DbSet<Product> product { get; set; }
+        public virtual DbSet<Product> Product { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
@@ -27,4 +27,4 @@ namespace FirstWebApp.Data
 
         }
     }
-}
+} 
