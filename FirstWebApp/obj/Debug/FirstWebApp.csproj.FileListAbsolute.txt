@@ -106,3 +106,6 @@ C:\Users\Marcelo\Documents\Github\FirstWebApp\FirstWebApp\obj\Debug\FirstWebApp.
 C:\Users\Marcelo\Documents\Github\FirstWebApp\FirstWebApp\obj\Debug\FirstWebApp.csproj.CopyComplete
 C:\Users\Marcelo\Documents\Github\FirstWebApp\FirstWebApp\obj\Debug\FirstWebApp.dll
 C:\Users\Marcelo\Documents\Github\FirstWebApp\FirstWebApp\obj\Debug\FirstWebApp.pdb
+C:\Users\Marcelo\Documents\Github\FirstWebApp\FirstWebApp\obj\Debug\FirstWebApp.Migrations.InitialCreate.resources
+C:\Users\Marcelo\Documents\Github\FirstWebApp\FirstWebApp\obj\Debug\FirstWebApp.csproj.GenerateResource.cache
+C:\Users\Marcelo\Documents\Github\FirstWebApp\FirstWebApp\obj\Debug\FirstWebApp.Migrations.Observation.resources
